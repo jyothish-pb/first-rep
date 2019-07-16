@@ -3,3 +3,5 @@ The first file
 contains
 
 Some items added.
+
+and changed for the first time.
